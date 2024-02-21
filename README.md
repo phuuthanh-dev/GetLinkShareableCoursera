@@ -2,6 +2,7 @@
 
 [<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/e94212a487d744cb75e75241cb93716836b2d1e2/images/svg/youtube.svg" width="80">](https://www.youtube.com/watch?v=5aowrIEflzs&t=1s)
 
+
 ## Installation:
     
     1) Git clone or download file and unzip on a folder 
@@ -12,3 +13,5 @@
     6) Enjoy :)
     
 ![Installation](https://user-images.githubusercontent.com/67743899/149144506-714a84a0-cd10-4155-91fe-20c39753b578.jpg)
+
+<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px" height="20px"> Star To Support Me! <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px" height="20px">
